@@ -4,13 +4,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "16457832"
+API_ID = "27345751"
 # -------------------------------------------------------------
-API_HASH = "3030874d0befdb5d05597deacc3e83ab"
+API_HASH = "2f4074e9f5a56e99fd9ba562f2314523"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7638229482:AAHONy8JYrwzoCGNCzVcnADsjeRHjVOjbwY")
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority")
-OWNER_ID = int(getenv("OWNER_ID", "7400383704"))
-SUPPORT_GRP = "+OL6jdTL7JAJjYzVl"
-UPDATE_CHNL = "BABY09_WORLD"
-OWNER_USERNAME = "UTTAM470"
+BOT_TOKEN = getenv("BOT_TOKEN", "")
+MONGO_URL = getenv("MONGO_URL", "")
+OWNER_ID = int(getenv("OWNER_ID", "7282582221"))
+SUPPORT_GRP = "https://t.me/HINDII_CHATTING"
+UPDATE_CHNL = "https://t.me/TG_STYLESH_NAME"
+OWNER_USERNAME = "ll_Raja_babu_ll"
